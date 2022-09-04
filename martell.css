@@ -1,0 +1,18 @@
+body {
+    background: rgb(240, 185, 7);
+    background: linear-gradient(90deg, rgb(92, 82, 24) 0%, rgb(207, 190, 35) 50%, rgb(231, 190, 9) 100%);
+}
+#titulo{
+    color: darkred;
+    text-align: center;
+    font-size: 50px;
+    font-style: inherit;
+}
+.diferente {
+    color: darkred;
+    font-size: 18px;
+}
+.resposta {
+    color: darkred;
+    font-size: 15px;
+}

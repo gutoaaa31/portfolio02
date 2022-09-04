@@ -1,0 +1,18 @@
+body {
+    background: rgb(222, 233, 235);
+    background: linear-gradient(90deg, rgb(13, 191, 223) 0%, rgb(112, 179, 184) 50%, rgb(179, 194, 192) 100%);
+}
+#titulo{
+    color: rgb(2, 3, 3);
+    text-align: center;
+    font-size: 50px;
+    font-style: inherit;
+}
+.diferente {
+    color: rgb(3, 2, 2);
+    font-size: 18px;
+}
+.resposta {
+    color: rgb(7, 4, 4);
+    font-size: 15px;
+}

@@ -1,0 +1,71 @@
+#titulo {
+    text-align: center;
+    font-size: 50px;
+    font-style: inherit;
+    color: white;
+}
+
+body {
+    background: rgb(49, 39, 39);
+    background: linear-gradient(90deg, rgb(20, 13, 13) 0%, rgb(133, 40, 40) 50%, rgb(231, 16, 9) 100%);
+}
+
+.ul1 {
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+table {
+    background-color: whitesmoke;
+    text-align: center;
+    height: 150px;
+}
+
+.targaryen:hover {
+    background-color: darkred;
+    color: ghostwhite;
+}
+
+.velaryon:hover {
+    background-color: cyan;
+    color: black;
+}
+
+.martell:hover {
+    background-color: gold;
+    color: darkred;
+}
+
+.stark:hover {
+    background-color: gray;
+    color: black;
+}
+
+thead {
+    background-color: lightgray;
+}
+
+h3 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.intro {
+    color: bisque;
+    font-size: 25px;
+}
+
+.arryn:hover {
+    background-color: royalblue;
+    color: black;
+}
+
+.diferente {
+    color: beige;
+    font-size: 18px;
+}
+
+.resposta {
+    color: beige;
+    font-size: 15px;
+}
